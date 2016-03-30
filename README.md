@@ -1,0 +1,2 @@
+# magisterska
+Praca magisterska
