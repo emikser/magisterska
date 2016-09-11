@@ -15,5 +15,5 @@ Najczęściej z Internetu korzystamy za pomocą przeglądarki internetowej. Wię
 1. Wstęp
 2. Opis zagadnienia
 3. Przedstawienie technologii
-* Wprowadzenie teoretyczne
+  1. Wprowadzenie teoretyczne
 4. 
