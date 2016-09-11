@@ -16,4 +16,15 @@ Najczęściej z Internetu korzystamy za pomocą przeglądarki internetowej. Wię
 2. Opis zagadnienia
 3. Przedstawienie technologii
   1. Wprowadzenie teoretyczne
-4. 
+  2. Możliwości wykorzystania
+4. Aplikacja
+  1. Koncepcja
+  2. Opis działania
+  3. Architektura
+5. Wnioski
+6. Bibliografia
+
+## Literatura
+1. Dokuemnatcja techniczna - https://nodejs.org/en/
+2. Dokuemnatcja techniczna - http://socket.io/
+3. "Node.js w praktyce. Tworzenie skalowalnych aplikacji sieciowych." - Azat Mardan
