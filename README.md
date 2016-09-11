@@ -1,4 +1,4 @@
-# Koncepcja aplikacji czasu rzeczywistego na podstawie Node.js i biblioteki Socket.io
+# Koncepcja oraz praktyczne działanie aplikacji czasu rzeczywistego na podstawie środowiska Node.js oraz biblioteki Socket.io
 
 ## Slowa kluczowe
 node.js, socket.io, javascript, jquery, html, css, real-time, app
