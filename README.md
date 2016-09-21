@@ -1,15 +1,19 @@
-# EduConnector - aplikacja internetowa wspomagająca udzielanie korepetycji
+# EduConnector - aplikacja internetowa wspomagająca naukę poprzez zabawę
 
-## Slowa kluczowe
-node.js, socket.io, education, communication, javascript, jquery, html, css, real-time, app, chat, mobile, desktop
+## Słowa kluczowe
+edukacja, zabawa, tłumaczenie, zadanie, aplikacja, czas rzeczywisty, javascript, node.js, socket.io
 
 ## Streszczenie
-Praca przedstawia aplikację internetową "EduConnector" do wspomagania udzielania korepetycji. Aplikacja bazuje na dwóch technologiach - Node.js oraz Socket.IO. Node.js to środowisko, które pozwala na uruchamianie serwerów WWW napisanych w języku JavaScript. Socket.IO natomiast jest biblioteką do tworzenia aplikacji internetowych działających w czasie rzeczywistym, którą można wykorzystywać we wspomnianym wcześniej środowisku. Dopełnieniem pracy jest przedstawienie działającej aplikacji, która w praktyczny sposób wyjaśni poruszony temat. 
+Praca przedstawia aplikację internetową "EduConnector" do wspomagania nauki poprzez zabawę. Aplikacja ma na celu ułatwienie przekazywania wiedzy uczniom za pośrednictwem Internetu. Projekt przeznaczony jest dla uczniów i nauczycieli. Nauczyciel za pomocą gotowych komponentów może tworzyć łamigłówki i zagadki do rozwiązywania przez uczniów. Przebieg każdego zadania działa w czasie rzeczywistym, dzięki czemu uczniowie mogą współpracować w grupie. Dostępny jest również ranking aktywności, który motywuje do zaliczania kolejnych etapów. Komunikację pomiędzy uczniami zapewnia czat. Całość może być wykorzystana do wyświetlania informacji o zadaniach domowych i nadchodzących sprawdzianach.
+
+Od strony technicznej aplikacja uruchamia się w przeglądarce internetowej i bazuje na dwóch technologiach - Node.js oraz Socket.IO. Node.js to środowisko, które pozwala na uruchamianie serwerów WWW napisanych w języku JavaScript. Socket.IO natomiast jest biblioteką do tworzenia aplikacji internetowych działających w czasie rzeczywistym, którą można wykorzystywać we wspomnianym wcześniej środowisku. Warstwa prezentacji stworzona została w języku HTML i CSS.
 
 ## Wstęp
-Coraz większe wymagania użytkowników oraz duży popyt na nowe technologie wymuszają powstawanie nowych rozwiązań informatycznych, które ułatwiają dostęp do informacji. Nowe pomysły wypierają z czasem starsze projekty wprowadzając do naszego życia nową jakość. Jednym z mediów, których te zmiany dotyczą na okrągło jest Internet, z którego korzysta na codzień niezliczona ilość osób. Dlatego też temat dostępności do informacji oraz czas w jakim dociera ona do odbiorcy jest tak istotny.
+Nowe technologie zachaczają o każdą dziedzinę życia i zajmują jego coraz większy obszar. Atrakcyjna forma rozrywki jaką serwują najnowsze urządzenia sprawia, że sięgają po nie dzieci w bardzo wczesnym wieku. Aplikacja "EduConnector" powstała w celu wykorzystania tego zjawiska w pożyteczny sposób. Ma za zadanie przekazywać wiedzę poprzez zabawę.
 
-Najczęściej z Internetu korzystamy za pomocą przeglądarki internetowej. Większość stron internetowych pobiera dane do wyświetlania z serwera WWW jednorazowo z każdym odświeżeniem strony. Jednak zdarza się też, że pewne informacje docierają do nas na bieżąco, nie ma wtedy potrzeby odświeżania strony w celu sprawdzenia czy dane na stronie są nadal aktualne. Mówimy wtedy, że takie aplikacje internetowe działają w czasie rzeczywistym. W dalszej części zostanie omówiony sposób w jaki działają takie aplikacje.
+Jednym z mediów, z którego korzysta prawie każdy młody człowiek jest Internet. Dlatego też aplikacja działa w zwykłej przeglądarce internetowej, aby zapewnić jak najłatwiejszy dostęp do jej zasobów. Kolejną ważną kwestią jest interakcja z innymi użytkownikami. Dzięki temu pojawia się rywalizacja, która w pozytywny sposób motywuje do nauki. 
+
+Projekt wyróżnia się poprzez sposób dostepu do informacji. Większość stron internetowych pobiera dane do wyświetlania z serwera WWW jednorazowo z każdym odświeżeniem strony. Jednak zdarza się też, że pewne informacje docierają do nas na bieżąco, nie ma wtedy potrzeby odświeżania strony w celu sprawdzenia czy dane na stronie są nadal aktualne. Mówimy wtedy, że takie aplikacje internetowe działają w czasie rzeczywistym. Niniejszy projekt również korzysta z tego rozwiązania. W dalszej części zostanie omówiony sposób w jaki działają takie aplikacje.
 
 ## Spis treści
 1. Wstęp
