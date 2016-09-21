@@ -19,16 +19,27 @@ Projekt wyróżnia się poprzez sposób dostepu do informacji. Większość stro
 1. Wstęp
 2. Opis zagadnienia
 3. Przedstawienie technologii
-  1. Wprowadzenie teoretyczne
-  2. Możliwości wykorzystania
-4. Aplikacja
-  1. Koncepcja
-  2. Opis działania
+  1. Porównanie dostepnych rozwiązań
+  2. Zastosowanie praktyczne
+4. Projekt i analiza
+  1. Aktorzy i przypadki użycia
+  2. Diagram klas
+  3. Diagram modelu danych
+  4. Interfejs użytkownika
+5. Implementacja
+  1. Opis działania
+  2. Użyte technologie
   3. Architektura
-5. Wnioski
-6. Bibliografia
+6. Testy
+  1. Scenariusz testów
+  2. Raport z testów
+7. Wkład własny
+8. Bibliografia
 
 ## Literatura
-1. Dokuemnatcja techniczna - https://nodejs.org/en/
-2. Dokuemnatcja techniczna - http://socket.io/
+1. Dokumentacja techniczna biblioteki Node.js
+2. Dokumentacja techniczna biblioteki Socket.IO
 3. "Node.js w praktyce. Tworzenie skalowalnych aplikacji sieciowych." - Azat Mardan
+4. "E-learning w edukacji. Jak stworzyć multimedialną i w pełni interaktywną treść dydaktyczną" - Zbigniew Zieliński
+6. "E-learning dla nauczycieli" - Szabłowski Stanisław
+7. https://pl.wikipedia.org/wiki/Czas_rzeczywisty (2016.09.21)
