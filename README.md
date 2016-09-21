@@ -40,6 +40,7 @@ Projekt wyróżnia się poprzez sposób dostepu do informacji. Większość stro
 1. Dokumentacja techniczna biblioteki Node.js
 2. Dokumentacja techniczna biblioteki Socket.IO
 3. "Node.js w praktyce. Tworzenie skalowalnych aplikacji sieciowych." - Azat Mardan
-4. "E-learning w edukacji. Jak stworzyć multimedialną i w pełni interaktywną treść dydaktyczną" - Zbigniew Zieliński
-6. "E-learning dla nauczycieli" - Szabłowski Stanisław
+4. "UML 2.0. Wprowadzenie." - Russ Miles, Kim Hamilton
+5. "E-learning w edukacji. Jak stworzyć multimedialną i w pełni interaktywną treść dydaktyczną." - Zbigniew Zieliński
+6. "E-learning dla nauczycieli." - Szabłowski Stanisław
 7. https://pl.wikipedia.org/wiki/Czas_rzeczywisty (2016.09.21)
