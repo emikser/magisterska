@@ -1,4 +1,4 @@
-# EduConnector - aplikacja internetowa wspomagająca naukę poprzez zabawę
+# _EduConnector_ – aplikacja internetowa wspomagająca naukę poprzez zabawę
 
 ## Słowa kluczowe
 edukacja, zabawa, tłumaczenie, zadanie, aplikacja, czas rzeczywisty, javascript, node.js, socket.io
