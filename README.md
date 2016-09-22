@@ -11,7 +11,7 @@ Moją motywacją była przyjazna i intuicyjna forma poruszania się po aplikacji
 Od strony technicznej aplikacja uruchamia się w przeglądarce internetowej, napisana jest w języku JavaScript i bazuje na dwóch technologiach - Node.js oraz Socket.IO. Dane aplikacji przechowywane są w bazie danych MySQL. Warstwa prezentacji stworzona została w HTML Drag and Drop API.
 
 ## Wstęp
-Nowe technologie zachaczają o każdą dziedzinę życia i zajmują jego coraz większy obszar. Atrakcyjna forma rozrywki jaką serwują najnowsze urządzenia sprawia, że sięgają po nie dzieci w bardzo wczesnym wieku. Aplikacja "EduConnector" powstała w celu wykorzystania tego zjawiska w pożyteczny sposób. Ma za zadanie przekazywać wiedzę poprzez zabawę.
+Nowe technologie zachaczają o każdą dziedzinę życia i zajmują jego coraz większy obszar. Atrakcyjna forma rozrywki jaką serwują najnowsze urządzenia sprawia, że sięgają po nie dzieci w bardzo wczesnym wieku. Aplikacja „EduConnector” powstała w celu wykorzystania tego zjawiska w pożyteczny sposób. Ma za zadanie przekazywać wiedzę poprzez zabawę.
 
 Jednym z mediów, z którego korzysta prawie każdy młody człowiek jest Internet. Dlatego też aplikacja działa w zwykłej przeglądarce internetowej, aby zapewnić jak najłatwiejszy dostęp do jej zasobów. Kolejną ważną kwestią jest interakcja z innymi użytkownikami. Dzięki temu pojawia się rywalizacja, która w pozytywny sposób motywuje do nauki. 
 
@@ -41,10 +41,10 @@ Projekt wyróżnia się poprzez sposób dostepu do informacji. Większość stro
 ## Literatura
 1. Dokumentacja techniczna biblioteki Node.js
 2. Dokumentacja techniczna biblioteki Socket.IO
-3. "Node.js w praktyce. Tworzenie skalowalnych aplikacji sieciowych." - Azat Mardan
-4. "UML 2.0. Wprowadzenie." - Russ Miles, Kim Hamilton
-5. "E-learning w edukacji. Jak stworzyć multimedialną i w pełni interaktywną treść dydaktyczną." - Zbigniew Zieliński
-6. "E-learning dla nauczycieli." - Szabłowski Stanisław
+3. „Node.js w praktyce. Tworzenie skalowalnych aplikacji sieciowych.” - Azat Mardan
+4. „UML 2.0. Wprowadzenie.” - Russ Miles, Kim Hamilton
+5. „E-learning w edukacji. Jak stworzyć multimedialną i w pełni interaktywną treść dydaktyczną.” - Zbigniew Zieliński
+6. „E-learning dla nauczycieli.” - Szabłowski Stanisław
 7. https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API (2016.09.22)
 8. https://developer.mozilla.org/pl/docs/Web/JavaScript (2016.09.22)
 9. https://www.mysql.com/ (2016.09.22)
