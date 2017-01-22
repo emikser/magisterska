@@ -1,14 +1,14 @@
-# _EduConnector_ – aplikacja internetowa wspomagająca naukę poprzez zabawę
+# _EasyBlocks_ – interaktywne tworzenie responsywnych stron internetowych
 
 ## Słowa kluczowe
-edukacja, zabawa, tłumaczenie, zadanie, aplikacja, czas rzeczywisty, javascript, node.js, socket.io
+strony internetowe, strony mobilne, responsywność, aplikacja, bootstrap, czas rzeczywisty, html, css, javascript, node.js, socket.io
 
 ## Streszczenie
-Praca przedstawia aplikację internetową „EduConnector” do wspomagania nauki poprzez zabawę. Aplikacja ma na celu ułatwienie przekazywania wiedzy uczniom za pośrednictwem Internetu. Projekt przeznaczony jest dla uczniów i nauczycieli. Aplikacja składa się z graficznych interaktywnych predefiniowanych łamigłówek/zagadek jak na przykład przekładanie zapałek w celu ułożenia poprawnego równania matematycznego czy mieszanie ze sobą substancji chemicznych w celu wywołania odpowiedniej reakcji chemicznej. Interaktywne łamigłówki, to małe podprogramy, w których za pomocą myszki lub palca w przypadku tabletu lub telefonu można przesuwać pewne elementy (w przypadku chemii np. kwasy, pierwiastki itp. i łączyć je ze sobą w celu otrzymania poprawnego wyniku).  
+Praca przedstawia aplikację internetową „EasyBlocks” do tworzenia responsywnych stron internetowych. Aplikacja ma na celu wspomaganie nauki tworzenia stron z wykorzystaniem biblioteki Bootstrap. Projekt przeznaczony jest dla osób, które chcą zdobyć wiedzę w sposób praktyczny. Aplikacja składa się z panelu zarządzania projektem z gotowymi komponentami biblioteki Bootstrap, które można umieszczać na siatce projektu. Komponenty to fragmenty kodu HTML i CSS, których właściwości można w dowolny sposób modyfikować w panelu. Oprócz komponentów, użytkownik może dodawać własny kod. Aplikacja umożliwia także podgląd w czasie rzewczywistym na urządzeniach mobilnych. Dzięki temu od razu widzać rezultat działań na różnych ekranach.
 
-Moją motywacją była przyjazna i intuicyjna forma poruszania się po aplikacji. Dzięki temu użytkownicy mogą współpracować w efektywny i atrakcyjny sposób. Rozwiązywanie każdego zadania odbywa się w czasie rzeczywistym. Oznacza to, że uczniowie biorący udział w rozgrywce mogą pracować na bieżąco w grupie. W aplikacji dostępny jest również ranking aktywności, który motywuje do zaliczania kolejnych etapów. Komunikację pomiędzy uczniami zapewnia czat widoczny w każdym widoku aplikacji.  
+Moją motywacją była przyjazna i intuicyjna forma poruszania się po aplikacji. Dzięki temu użytkownicy w łatwy sposób mogą przyswoić sobie wiedzę na temat sposobu działania responsywnych stron internetowych. Dodatkowy podgląd sprawia, że
 
-Od strony technicznej aplikacja uruchamia się w przeglądarce internetowej, napisana jest w języku JavaScript i bazuje na dwóch technologiach - Node.js oraz Socket.IO. Dane aplikacji przechowywane są w bazie danych MySQL. Warstwa prezentacji stworzona została w HTML Drag and Drop API.
+Od strony technicznej aplikacja uruchamia się w przeglądarce internetowej, napisana jest w języku JavaScript i bazuje na dwóch technologiach - Node.js oraz Socket.IO. Dane aplikacji przechowywane są w bazie danych MySQL. Warstwa prezentacji stworzona została za pomocą HTML Drag and Drop API oraz biblioteki Bootstrap.
 
 ## Wstęp
 Nowe technologie zachaczają o każdą dziedzinę życia i zajmują jego coraz większy obszar. Atrakcyjna forma rozrywki jaką serwują najnowsze urządzenia sprawia, że sięgają po nie dzieci w bardzo wczesnym wieku. Aplikacja „EduConnector” powstała w celu wykorzystania tego zjawiska w pożyteczny sposób. Ma za zadanie przekazywać wiedzę poprzez zabawę.
@@ -43,9 +43,8 @@ Projekt wyróżnia się poprzez sposób dostepu do informacji. Większość stro
 2. Dokumentacja techniczna biblioteki Socket.IO
 3. „Node.js w praktyce. Tworzenie skalowalnych aplikacji sieciowych.” - Azat Mardan
 4. „UML 2.0. Wprowadzenie.” - Russ Miles, Kim Hamilton
-5. „E-learning w edukacji. Jak stworzyć multimedialną i w pełni interaktywną treść dydaktyczną.” - Zbigniew Zieliński
-6. „E-learning dla nauczycieli.” - Szabłowski Stanisław
-7. https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API (2016.09.22)
-8. https://developer.mozilla.org/pl/docs/Web/JavaScript (2016.09.22)
-9. https://www.mysql.com/ (2016.09.22)
-9. https://pl.wikipedia.org/wiki/Czas_rzeczywisty (2016.09.22)
+5. http://getbootstrap.com/components/ (2017.01.22)
+6. https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API (2017.01.22)
+7. https://developer.mozilla.org/pl/docs/Web/JavaScript (2017.01.22)
+8. https://www.mysql.com/ (2017.01.22)
+9. https://pl.wikipedia.org/wiki/Czas_rzeczywisty (2017.01.22)
