@@ -6,11 +6,12 @@ strony internetowe, strony mobilne, responsywność, aplikacja, bootstrap, czas 
 ## Streszczenie
 Praca przedstawia aplikację internetową „EasyBlocks” do tworzenia responsywnych stron internetowych. Aplikacja ma na celu wspomaganie nauki tworzenia stron z wykorzystaniem biblioteki Bootstrap. Projekt przeznaczony jest dla osób, które chcą zdobyć wiedzę w sposób praktyczny. Aplikacja składa się z panelu zarządzania projektem z gotowymi komponentami biblioteki Bootstrap, które można umieszczać na siatce projektu. Komponenty to fragmenty kodu HTML i CSS, których właściwości można w dowolny sposób modyfikować w panelu. Oprócz komponentów, użytkownik może dodawać własny kod. Aplikacja umożliwia także podgląd w czasie rzewczywistym na urządzeniach mobilnych. Dzięki temu od razu widzać rezultat działań na różnych ekranach.
 
-Moją motywacją była przyjazna i intuicyjna forma poruszania się po aplikacji. Dzięki temu użytkownicy w łatwy sposób mogą przyswoić sobie wiedzę na temat sposobu działania responsywnych stron internetowych. Dodatkowy podgląd sprawia, że
+Moją motywacją była przyjazna i intuicyjna forma poruszania się po aplikacji. Dzięki temu użytkownicy w łatwy sposób mogą przyswoić sobie wiedzę na temat sposobu działania responsywnych stron internetowych.
 
 Od strony technicznej aplikacja uruchamia się w przeglądarce internetowej, napisana jest w języku JavaScript i bazuje na dwóch technologiach - Node.js oraz Socket.IO. Dane aplikacji przechowywane są w bazie danych MySQL. Warstwa prezentacji stworzona została za pomocą HTML Drag and Drop API oraz biblioteki Bootstrap.
 
 ## Wstęp
+
 Nowe technologie zachaczają o każdą dziedzinę życia i zajmują jego coraz większy obszar. Atrakcyjna forma rozrywki jaką serwują najnowsze urządzenia sprawia, że sięgają po nie dzieci w bardzo wczesnym wieku. Aplikacja „EduConnector” powstała w celu wykorzystania tego zjawiska w pożyteczny sposób. Ma za zadanie przekazywać wiedzę poprzez zabawę.
 
 Jednym z mediów, z którego korzysta prawie każdy młody człowiek jest Internet. Dlatego też aplikacja działa w zwykłej przeglądarce internetowej, aby zapewnić jak najłatwiejszy dostęp do jej zasobów. Kolejną ważną kwestią jest interakcja z innymi użytkownikami. Dzięki temu pojawia się rywalizacja, która w pozytywny sposób motywuje do nauki. 
