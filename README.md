@@ -11,12 +11,11 @@ Moją motywacją była przyjazna i intuicyjna forma poruszania się po aplikacji
 Od strony technicznej aplikacja uruchamia się w przeglądarce internetowej, napisana jest w języku JavaScript i bazuje na dwóch technologiach - Node.js oraz Socket.IO. Dane aplikacji przechowywane są w bazie danych MySQL. Warstwa prezentacji stworzona została za pomocą HTML Drag and Drop API oraz biblioteki Bootstrap.
 
 ## Wstęp
+W dzisiejszych czasach Internet jest jednym z najważniejszych mediów. W związku z tym zmieniają się także wymagania odnoszące się do stron internetowych. Szybko rosnąca liczba  internautów korzystających z telefonów oraz tabletów, wymusza na twórcach stron internetowych tworzenie responsywnych projektów, prezentujących treść w sposób odpowiedni dla danego ekranu.
 
-Nowe technologie zachaczają o każdą dziedzinę życia i zajmują jego coraz większy obszar. Atrakcyjna forma rozrywki jaką serwują najnowsze urządzenia sprawia, że sięgają po nie dzieci w bardzo wczesnym wieku. Aplikacja „EduConnector” powstała w celu wykorzystania tego zjawiska w pożyteczny sposób. Ma za zadanie przekazywać wiedzę poprzez zabawę.
+Aplikacja "EasyBlocks" pozwala tworzyć skalowalne strony. Użytkownicy, którzy dopiero zaczynają swoją przygodę z tworzeniem mobilnych stron, mają dostęp do gotowych rozwiązań. Projekt pozwala tworzyć gotowe szablony bez znajomości konkretnych technologii. Zaawansowani użytkownicy mogą dodawać własny kod. Aplikacja działa w zwykłej przeglądarce internetowej, aby zapewnić jak najłatwiejszy dostęp do jej zasobów. Kolejną ważną kwestią jest integracja z wieloma urządzeniami. Dzięki temu widzimy postęp prac na innych urządzeniach.
 
-Jednym z mediów, z którego korzysta prawie każdy młody człowiek jest Internet. Dlatego też aplikacja działa w zwykłej przeglądarce internetowej, aby zapewnić jak najłatwiejszy dostęp do jej zasobów. Kolejną ważną kwestią jest interakcja z innymi użytkownikami. Dzięki temu pojawia się rywalizacja, która w pozytywny sposób motywuje do nauki. 
-
-Projekt wyróżnia się poprzez sposób dostepu do informacji. Większość stron internetowych pobiera dane do wyświetlania z serwera WWW jednorazowo z każdym odświeżeniem strony. Jednak zdarza się też, że pewne informacje docierają do nas na bieżąco, nie ma wtedy potrzeby odświeżania strony w celu sprawdzenia czy dane na stronie są nadal aktualne. Mówimy wtedy, że takie aplikacje internetowe działają w czasie rzeczywistym. Niniejszy projekt również korzysta z tego rozwiązania.  W dalszej części zostanie omówiony sposób w jaki działają takie aplikacje.
+Projekt wyróżnia się poprzez sposób wyświetlania informacji. Większość stron internetowych pobiera dane do wyświetlania z serwera WWW jednorazowo z każdym odświeżeniem strony. Jednak zdarza się też, że pewne informacje docierają do nas na bieżąco, nie ma wtedy potrzeby odświeżania strony w celu sprawdzenia czy dane na stronie są nadal aktualne. Mówimy wtedy, że takie aplikacje działają w czasie rzeczywistym. Niniejszy projekt również korzysta z tego rozwiązania. W dalszej części zostanie omówiony sposób w jaki działają takie aplikacje.
 
 ## Spis treści
 1. Wstęp
